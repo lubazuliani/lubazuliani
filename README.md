@@ -4,8 +4,6 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 Having recently graduated from Henry's bootcamp in Full Stack Web Development, I'm looking for my first job in the industry. So far I've gained hands-on experience by completing two main projects using React, Node.js, Next.js, PostgreSQL, to mention a few.
